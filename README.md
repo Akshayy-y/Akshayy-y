@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akshay Suresh
 
-### Aspiring Penetration Tester | Ethical Hacking | Network Security | Python & Linux
+###  RedTeamer | Penetration Tester | Ethical Hacking | Network Security | Python & Linux
 
 - 🎓 Google Cybersecurity Certified  
 - 🔐 Passionate about Ethical Hacking & Vulnerability Assessment  

@@ -13,9 +13,13 @@
 ## 🛡️ Cybersecurity Tools & Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/kalilinux.svg" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/burpsuite.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/wireshark.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/metasploit.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/hashcat.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/owasp.svg" width="40" height="40"/>
 </p>
 
 **Tools:**

@@ -13,13 +13,13 @@
 ## 🛡️ Cybersecurity Tools & Skills
 
 <p align="left">
-<img src="https://simpleicons.org/icons/kalilinux.svg" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/burpsuite.svg" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/wireshark.svg" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/metasploit.svg" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/hashcat.svg" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/owasp.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"/>
+  <img src="https://cdn.simpleicons.org/metasploit/2F80ED" width="45"/>
+  <img src="https://cdn.simpleicons.org/hashcat/F5F5F5" width="45"/>
+  <img src="https://cdn.simpleicons.org/owasp/F5F5F5" width="45"/>
 </p>
 
 **Tools:**

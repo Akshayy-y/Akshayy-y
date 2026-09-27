@@ -5,7 +5,7 @@
 - 🎓 Google Cybersecurity Certified  
 - 🔐 Passionate about Ethical Hacking & Vulnerability Assessment  
 - 👨‍💻 Projects: Phishing Detection System, Port Scanner, VAPT Labs  
-- 🌐 Portfolio: https://akshay-devportfolio.vercel.app/  
+- 🌐 Portfolio: https://akshayy-y.github.io/Portfolio/ 
 - 📫 How to reach me: akshaysuresh441@gmail.com  
 
 ---

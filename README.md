@@ -32,18 +32,6 @@ PhishGuard
 
 A full-stack Django app that detects phishing emails in real time with a trained ML model, auto-blocks malicious senders, and runs sentiment analysis on every message. Python Django scikit-learn
 
-## 🛡️ Cybersecurity Tools & Skills
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45"/>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"/>
-  <img src="https://cdn.simpleicons.org/metasploit/2F80ED" width="45"/>
-  <img src="https://cdn.simpleicons.org/hashcat/F5F5F5" width="45"/>
-  <img src="https://cdn.simpleicons.org/owasp/F5F5F5" width="45"/>
-</p>
-
 🛠️ Skills & Tools
 <p align="left"> <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40"/> <img src="https://skillicons.dev/icons?i=python" height="40"/> <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40"/> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40"/> <img src="https://cdn.simpleicons.org/metasploit/2F80ED" width="40"/> <img src="https://cdn.simpleicons.org/hashcat/F5F5F5" width="40"/> <img src="https://cdn.simpleicons.org/owasp/F5F5F5" width="40"/> </p>
 
